@@ -20,4 +20,5 @@ Wanted to learn how to scrape Premier Stats in the hopes of applying such skills
 
 5) Formatted all this data to be easy accessible via a csv file 
 
-6) 
+
+6) Predict winner based on scraped data
