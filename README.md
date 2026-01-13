@@ -1,3 +1,5 @@
+# NBA Championship Predictor
+
 # Data Scraping learning module
 
 Wanted to learn how to scrape Premier Stats in the hopes of applying such skills in a ML regression model. 
@@ -18,3 +20,4 @@ Wanted to learn how to scrape Premier Stats in the hopes of applying such skills
 
 5) Formatted all this data to be easy accessible via a csv file 
 
+6) 
