@@ -1,4 +1,4 @@
-# NBA Championship Predictor
+# Premier League Data Scraper
 
 # Data Scraping learning module
 
